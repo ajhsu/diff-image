@@ -1,0 +1,11 @@
+{
+  "name": "diff-image",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "AJ Hsu <im.ajhsu@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "pixelmatch": "git://github.com/ajhsu/pixelmatch.git#v5.0.0",
+    "pngjs": "^3.3.3"
+  }
+}
